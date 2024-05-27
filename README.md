@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="300" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F79F&vCenter=true&random=false&width=435&lines=Assalomu+Aleykum!;Infinitwo+accountiga+hush+kelibsiz.)](https://git.io/typing-svg)
 
