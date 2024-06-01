@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">How to reach me:</p>
+<p align="left">Languages and Tools:</p>
 
 ###
 
