@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Languages and Tools:</p>
+<p align="left">How to reach me:</p>
 
 ###
 
