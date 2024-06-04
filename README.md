@@ -82,7 +82,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-![snake gif](https://github.com/infinitwo/infinitwo/blob/output/github-contribution-grid-snake.svg)
-
 
 
