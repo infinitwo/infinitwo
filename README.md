@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Assalomu%20Aleykum!&reversal=true&descAlign=37&descAlignY=62"/>
-</p>
-
 
 <div align="center">
   Visitors count<br>
@@ -84,13 +80,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infinitwo/infinitwo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/infinitwo/infinitwo/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 
 
 
