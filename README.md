@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/main/GIFapple.gif" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Assalomu%20Aleykum!&reversal=true&descAlign=37&descAlignY=62"/>
 </p>
+
 
 <div align="center">
   Visitors count<br>
