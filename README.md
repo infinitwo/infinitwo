@@ -82,4 +82,4 @@
 </picture>
 
 ![](https://leetcard.jacoblin.cool/MuhammadIslamov?border=0&radius=20)
-
+![](https://leetcard.jacoblin.cool/MuhammadIslamov?ext=heatmap)
