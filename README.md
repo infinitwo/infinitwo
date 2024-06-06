@@ -81,5 +81,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/infinitwo/infinitwo/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-
+![](https://leetcard.jacoblin.cool/MuhammadIslamov?border=0&radius=20)
 
