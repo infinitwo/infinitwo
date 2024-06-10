@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/infinitwo/count.svg?"  />
 </div>
 
+![](https://leetcard.jacoblin.cool/MuhammadIslamov?ext=heatmap)
+
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -84,4 +86,4 @@
 ![](https://leetcard.jacoblin.cool/MuhammadIslamov?border=0&radius=20)
 
 ---
-![](https://leetcard.jacoblin.cool/MuhammadIslamov?ext=heatmap)
+
