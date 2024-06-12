@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Assalomu%20Alaykum!&fontSize=70&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Assalomu%20Alaykum!&fontSize=70&animation=twinkling"/>
 </p>
+
 
 <div align="center">
   Visitors count<br>
