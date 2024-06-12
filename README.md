@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Assalomu%20Alaykum!&reversal=false)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Assalomu%Alaykum!&fontSize=70&animation=twinkling"/>
 </p>
+
 <div align="center">
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/infinitwo/count.svg?"  />
