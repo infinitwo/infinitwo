@@ -1,3 +1,6 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xq5sntzfxivvmxih4bjwawksuu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xq5sntzfxivvmxih4bjwawksuu&redirect=true)
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Assalomu%20Alaykum!&fontSize=70&animation=twinkling"/>
